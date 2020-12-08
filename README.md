@@ -1,5 +1,10 @@
-### Hi there 👋
+### André Valentim Rodrigues! 👋
 
+🚀 Desenvolvedor Full Stack na Engage.
+💻 ReactJS, React Native, C#, Node.js 
+🎸 Apaixonado por música
+
+LinkedIn: <a href="https://www.linkedin.com/in/andr%C3%A9-valentim-rodrigues-912560116/">André Valentim Rodrigues</a>
 <!--
 **avalentim7/avalentim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
