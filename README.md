@@ -1,8 +1,8 @@
 ### André Valentim Rodrigues! 👋
 
-🚀 Desenvolvedor Full Stack na Engage.
-💻 ReactJS, React Native, C#, Node.js 
-🎸 Apaixonado por música
+🚀 Desenvolvedor Full Stack na Engage. <br>
+💻 ReactJS, React Native, C#, Node.js  <br>
+🎸 Apaixonado por música <br>
 
 LinkedIn: <a href="https://www.linkedin.com/in/andr%C3%A9-valentim-rodrigues-912560116/">André Valentim Rodrigues</a>
 <!--
