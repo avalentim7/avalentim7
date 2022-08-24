@@ -23,7 +23,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
 
-LinkedIn: <a href="https://www.linkedin.com/in/andr%C3%A9-valentim-rodrigues-912560116/">André Valentim Rodrigues</a>
+LinkedIn: <a href="">André Valentim Rodrigues</a>
+
+<div>  <a href="https://www.youtube.com/channel/UCY5H3qebQJA2_Gjt9aLt4Vw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  <a href="https://www.instagram.com/rntsza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/kpdistance" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andr%C3%A9-valentim-rodrigues-912560116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </div>
+
+
 <!--
 **avalentim7/avalentim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
