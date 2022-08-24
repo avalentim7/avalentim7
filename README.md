@@ -8,6 +8,9 @@
 ## Estatísticas
 [![avalentim7's GitHub stats](https://github-readme-stats.vercel.app/api?username=avalentim7&count_private=true&show_icons=true)](https://github.com/avalentim7/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avalentim7&layout=compact)](https://github.com/avalentim7/github-readme-stats)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=avalentim7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
